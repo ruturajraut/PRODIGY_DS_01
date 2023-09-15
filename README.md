@@ -1,2 +1,4 @@
 # PRODIGY_DS_01
 Summer Olympics Medals (1976-2008)
+This dataset is a list of all the medal winners in the Summer Olympics from 1976 Montreal to 2008 Beijing. It includes each and every medal awarded within the period. This dataset is intended for beginners so that they can get a taste of advanced Excel functions which is perhaps one of the key skills required to be a great data scientist. I too got my hands dirty with the dataset and played with some advanced Excel functions. Further, this dataset can also be used for a predictive model as to which country is likely to fetch the highest number of gold in a particular sports category (just an example), etc.
+The file contains 11 columns which include information about each and every medal awarded between the period of 1976-2008 in the Summer Olympics. The athlete's name along with his country, gender, discipline in which he/she won and the event name is included in the dataset.
